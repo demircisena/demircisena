@@ -1,9 +1,6 @@
+![canva ön yazı](https://user-images.githubusercontent.com/106083090/204130986-b4d0b81a-7526-429e-b18e-5e12341867df.png)
 
-![Sarı Renginde Günlük İnstagram Gönderisi](https://user-images.githubusercontent.com/106083090/203659457-f5af3e44-a1a7-423d-a7b7-427d6e938c5e.png)
 
-<!-- <h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p> -->
 
